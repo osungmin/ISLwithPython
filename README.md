@@ -1,4 +1,4 @@
-# Introduction to Statistical Learning with Python
+# Lecture Materials – Introduction to Statistical Learning with Python
 
 This repository contains code examples, exercises, and supplemental materials for the course **Introduction to Statistical Learning**, adapted for Python.
 
@@ -14,6 +14,6 @@ By Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
 
 - `notebooks/` – Jupyter notebooks by chapter
 - `data/` – Datasets used in the book and exercises
-- `slides/` – [📄 Lecture slides (external link)](https://drive.google.com/your-slide-link)
-- `projects/` – Practice projects and case studies
+- `slides/` – [Lecture slides (external link)](https://drive.google.com/your-slide-link)
+- `projects/` – [Coding exams (external link)](https://drive.google.com/your-slide-link)
 - `README.md` – This file
